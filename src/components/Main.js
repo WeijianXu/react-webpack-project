@@ -20,3 +20,4 @@ AppComponent.defaultProps = {
 };
 
 export default AppComponent;
+
